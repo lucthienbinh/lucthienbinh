@@ -1,4 +1,4 @@
-## Hi there 😊! My name is Binh Luc.
+## Heyo bros 😊! How are you doing? My name is Binh Luc.
 ### I am a software engineering, web-developer, blockchain-developer.
 ![I am a software engineering, web-developer, blockchain-developer.](https://github.com/lucthienbinh/lucthienbinh/blob/main/image/ethereum.jpg)
 
