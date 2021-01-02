@@ -1,4 +1,4 @@
-## Hi! :smiley: My name is Binh Luc.
+## Hi there 😊! My name is Binh Luc.
 ### I am a software engineering, web-developer, blockchain-developer.
 ![I am a software engineering, web-developer, blockchain-developer.](https://github.com/lucthienbinh/lucthienbinh/blob/main/image/ethereum.jpg)
 
@@ -18,3 +18,5 @@
 ### Advanced research 🔥.
 * ⚡ Server architecture: Microservices / Message queue (Zeebe) / Grpc
 * ❤️ Blockchain: Ethereum 
+
+Thanks for visiting my lovely place 😍. Hope to see you again.
