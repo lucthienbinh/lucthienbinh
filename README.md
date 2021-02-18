@@ -19,4 +19,4 @@
 * ⚡ Server architecture: Microservices / Message queue + Workflow engine(Zeebe) / Grpc
 * ❤️ Blockchain: Ethereum 
 
-Thanks for visiting my lovely place 😍. Hope to see you again.
+Thanks for visiting my lovely place :wink:. Hope to see you again.
