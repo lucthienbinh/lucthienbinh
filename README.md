@@ -2,7 +2,8 @@
 About me :point_down::
 - **Software developer**
 - **Blockchain developer**
-- **High tech lover**
+- **Cryptocurrency lover**
+
 ![Binh Luc](https://github.com/lucthienbinh/lucthienbinh/blob/main/image/ethereum.jpg)
 
 ### Programming language 🚀.
