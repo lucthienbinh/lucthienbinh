@@ -1,4 +1,4 @@
-## Heyo buddy :sunglasses:! How are you doing? I am Binh Luc and welcome to my awesome place!
+## Heyo buddy :sunglasses:! How are you doing? I am Binh Luc and its good to see you here!
 About me :point_down::
 - **Software developer**
 - **Blockchain developer**
