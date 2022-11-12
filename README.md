@@ -1,10 +1,8 @@
-## Heyo buddy :sunglasses:! How are you doing? I am Binh Luc and its good to see you here!
+## Hi, I am Binh Luc and its good to see you here!
 About me :point_down::
 - **Software developer**
-- **Blockchain developer**
-- **Cryptocurrency lover**
-
-![Binh Luc](https://github.com/lucthienbinh/lucthienbinh/blob/main/image/ethereum.jpg)
+- **Cycling lover**
+- **Daily walk**
 
 ### Programming language 🚀.
 | <a href="https://docs.soliditylang.org/en/latest/"><img src="https://raw.githubusercontent.com/lucthienbinh/lucthienbinh/main/image/solidity.png" width=60></a> | <a href="https://golang.org/"><img src="https://raw.githubusercontent.com/lucthienbinh/lucthienbinh/main/image/go.png" width=60></a> | <a href="https://www.cplusplus.com/"><img src="https://raw.githubusercontent.com/lucthienbinh/lucthienbinh/main/image/cpp.png" width=60></a> | <a href="https://docs.microsoft.com/en-us/dotnet/csharp/"><img src="https://raw.githubusercontent.com/lucthienbinh/lucthienbinh/main/image/csharp.png" width=60></a> | <a href="https://www.java.com/en/"><img src="https://raw.githubusercontent.com/lucthienbinh/lucthienbinh/main/image/java.png" width=60></a> | <a href="https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/"><img src="https://raw.githubusercontent.com/lucthienbinh/lucthienbinh/main/image/js.png" width=60></a> | <a href="https://www.php.net/"><img src="https://raw.githubusercontent.com/lucthienbinh/lucthienbinh/main/image/php.png" width=60></a> |
@@ -20,7 +18,7 @@ About me :point_down::
 
 
 ### Advanced research 🔥.
-* ⚡ Server architecture: Microservices / Message queue + Workflow engine(Zeebe) / Grpc
-* ❤️ Blockchain: Ethereum 
+* ⚡ Server architecture: Microservices / Message queue / Grpc
 
-Thanks for visiting my lovely place :wink:. Hope to see you again.
+Thanks for visiting my lovely place :wink:. 
+Hope to see you soon in the future :heart_eyes:.
